@@ -19,11 +19,11 @@ decisions below aren't hypothetical. Each one is annotated with the incident tha
 
 ## Install
 
-Not yet on npm; install straight from GitHub (Node 18+):
-
 ```bash
-npm i github:abouchard11/gemini-reliability-proxy
+npm i gemini-reliability-proxy
 ```
+
+Node 18+.
 
 ```js
 import { reliableGenerate, thinkingConfigFor } from 'gemini-reliability-proxy';
