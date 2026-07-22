@@ -1,5 +1,7 @@
 # gemini-reliability-proxy
 
+[![CI](https://github.com/abouchard11/gemini-reliability-proxy/actions/workflows/ci.yml/badge.svg)](https://github.com/abouchard11/gemini-reliability-proxy/actions/workflows/ci.yml)
+
 **Treat an unreliable LLM like infrastructure.**
 
 A zero-dependency core for calling Google Gemini from a server, built around the failure modes a
@@ -14,6 +16,14 @@ decisions below aren't hypothetical. Each one is annotated with the incident tha
   Vercel, Cloudflare, Lambda, or a plain server.
 - **Unit-tested** — every module has tests; `fetch` and backoff are injectable, so the retry,
   fallback, timeout, and chain-budget failure paths are all covered.
+
+## Install
+
+Not yet on npm; install straight from GitHub (Node 18+):
+
+```bash
+npm i github:abouchard11/gemini-reliability-proxy
+```
 
 ```js
 import { reliableGenerate, thinkingConfigFor } from 'gemini-reliability-proxy';
