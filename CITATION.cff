@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "gemini-reliability-proxy"
+abstract: >-
+  Treats an unreliable LLM like infrastructure: a zero-dependency Gemini proxy core with
+  model fallback chains, 429-versus-5xx-aware retry, chain-wide time budgets, and
+  denial-of-wallet limits.
+authors:
+  - family-names: "Bouchard"
+    given-names: "Alex"
+    email: "alex@midnightdev.dev"
+    affiliation: "MidnightDev"
+    website: "https://midnightdev.dev"
+type: software
+repository-code: "https://github.com/abouchard11/gemini-reliability-proxy"
+url: "https://github.com/abouchard11/gemini-reliability-proxy"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-19
+keywords:
+  - "llm"
+  - "reliability"
+  - "proxy"
+  - "retry"
+  - "rate-limiting"
+  - "gemini"
