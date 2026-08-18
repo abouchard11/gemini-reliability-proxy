@@ -11,6 +11,7 @@ authors:
     email: "alex@midnightdev.dev"
     affiliation: "MidnightDev"
     website: "https://midnightdev.dev"
+    orcid: "https://orcid.org/0009-0003-0911-9681"
 type: software
 repository-code: "https://github.com/abouchard11/gemini-reliability-proxy"
 url: "https://github.com/abouchard11/gemini-reliability-proxy"
