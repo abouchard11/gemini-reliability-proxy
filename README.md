@@ -123,6 +123,6 @@ npm install
 npm test        # vitest — covers the fallback/retry/timeout/budget paths and the limiters
 ```
 
-## License
+## Rights
 
-[MIT](LICENSE) © 2026 Alex Bouchard (MidnightDev)
+**Proprietary — all rights reserved. No license is granted.** See [LICENSE](LICENSE).
