@@ -15,7 +15,6 @@ authors:
 type: software
 repository-code: "https://github.com/abouchard11/gemini-reliability-proxy"
 url: "https://github.com/abouchard11/gemini-reliability-proxy"
-license: MIT
 version: 1.0.0
 date-released: 2026-07-19
 keywords:
