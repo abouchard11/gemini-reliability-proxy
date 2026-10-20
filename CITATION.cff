@@ -15,7 +15,8 @@ authors:
 type: software
 repository-code: "https://github.com/abouchard11/gemini-reliability-proxy"
 url: "https://github.com/abouchard11/gemini-reliability-proxy"
-version: 1.0.0
+license: Apache-2.0
+version: "1.0.0"
 date-released: 2026-07-19
 keywords:
   - "llm"
