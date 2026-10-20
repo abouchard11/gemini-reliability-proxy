@@ -1,6 +1,7 @@
 # gemini-reliability-proxy
 
 [![CI](https://github.com/abouchard11/gemini-reliability-proxy/actions/workflows/ci.yml/badge.svg)](https://github.com/abouchard11/gemini-reliability-proxy/actions/workflows/ci.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23503134.svg)](https://doi.org/10.5281/zenodo.23503134)
 
 **Treat an unreliable LLM like infrastructure.**
 
