@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Treat an unreliable LLM like infrastructure: a zero-dependency Gemini proxy core with model fallback chains, 429-vs-5xx-aware retry, chain-wide time budgets, and denial-of-wallet limits.",
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "Apache-2.0",
   "author": "Alex Bouchard (MidnightDev)",
   "keywords": [
     "gemini",

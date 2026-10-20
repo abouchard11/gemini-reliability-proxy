@@ -125,4 +125,4 @@ npm test        # vitest — covers the fallback/retry/timeout/budget paths and 
 
 ## Rights
 
-**Proprietary — all rights reserved. No license is granted.** See [LICENSE](LICENSE).
+**Apache License 2.0.** See [LICENSE](LICENSE).
